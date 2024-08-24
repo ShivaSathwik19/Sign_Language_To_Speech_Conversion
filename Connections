@@ -1,0 +1,8 @@
+•	Connect the +5V pin of the Arduino to the +5V pin of the Flex Sensor and DF Mini Player.
+•	Connect the GND (ground) pin of the Arduino to the GND pins of the Flex Sensor and DF Mini Player.
+•	Connect the analogue output pin (A0) of the Flex Sensor to the A0 pin of the Arduino.
+•	Connect the digital pins D9 and D10 of the Arduino to the TX and RX pins of the DF Mini Player, respectively.
+•	Connect the +5V and GND pins of the DF Mini Player to the +5V and GND pins of the Arduino.
+•	Connect digital pins D2, D3, and D4 of the Arduino to the Blue, Green, and Red LEDs, respectively.
+•	Connect the Speaker/Headphones to the audio output jack of the DF Mini Player.
+
